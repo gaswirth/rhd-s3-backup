@@ -1,5 +1,5 @@
 #!/bin/sh
-DIR=/home/gaswirth/scripts/s3-backup
+DIR=/usr/local/bin/s3-backup
 EXCLUDES="$DIR"/s3.exclude
 HOSTNAME=`hostname`
 
